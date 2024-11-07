@@ -1,0 +1,1 @@
+baci_12102005-osx_tiger-purana.tar.gz is for Mac OS version 10.4 (Tiger)
