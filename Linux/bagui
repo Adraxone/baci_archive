@@ -1,0 +1,16 @@
+#!/bin/sh
+# Let the BACI user know that bagui is no longer supported
+echo "In 2012, We decided to stop supporting the BACI graphical user"
+echo "interface PCODE interpreter, bagui, because of its dependence"
+echo "on Tcl and Tk.  For the functionality of bagui, we strongly"
+echo "recommend that you use the bagui built into the JavaBACI"
+echo "system.  This application is easier to install and use"
+echo "because it is Java based."
+echo ""
+echo "                     Bill Bynum  bynum@cs.wm.edu"
+echo "                     Tracy Camp  tcamp@mines.edu"
+echo "                     September, 2012"
+#
+#
+# $Id: bagui,v 1.1 2012/09/29 20:44:36 bynum Exp $
+#

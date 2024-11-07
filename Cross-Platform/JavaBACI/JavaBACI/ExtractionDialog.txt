@@ -1,0 +1,26 @@
+The installation of the JavaBACI classes was successful.
+
+To make the JavaBACI applications easier to use,
+the installation program has stored a script
+named 'javabaci.bat' in the directory
+
+      C:\Users\Danny Le\Desktop\baci\Cross Platform\JavaBACI\scripts
+
+To use this script, you have to place it in one of
+the directories in your PATH expression.  Type 'PATH'
+in a CommandPrompt window to list these directories.
+
+After you have done this, to have the JavaBACI 'bagui' PCODE
+interpreter execute the 'c-increment.pco' PCODE file, type
+
+       javabaci.bat bagui c-increment
+
+Using 'javabaci.bat' to invoke the other JavaBACI applications
+'bacc', 'bapas', 'badis', 'bainterp', 'baar' and 'bald'
+is similar.
+
+Please look over the README and sample programs in the
+sample_programs directory.
+
+This dialog will be stored in the file ExtractionDialog.txt
+in the directory C:\Users\Danny Le\Desktop\baci\Cross Platform\JavaBACI.
