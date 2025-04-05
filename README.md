@@ -8,3 +8,4 @@ To download, just clone this repository.<br>
 If you find other binaries, do not hesitate to contact me.<br>
 
 NOTE: ./Binaries/Cross-Platform also includes GUI front-ends for bainterp, as well as entire implementations of BACI in Java.
+NOTE: BACI GUI is NOT the latest version of BACI.
