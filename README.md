@@ -1,11 +1,21 @@
-This compilation of BACI binaries was put together by:<br>
-Danny Le<br>
-dxl5637@psu.edu (or dannle24@proton.me)<br>
-Pennsylvania State University<br>
+# BACI Archive
 
-To download, just clone this repository.<br>
+This repository is an archive of **BACI (Ben-Ari Concurrent Interpreter)** binaries, collected for preservation and convenience. It includes command-line versions, GUI front-ends, and full implementations in Java.
 
-If you find other binaries, do not hesitate to contact me.<br>
+> **Note:** This is not a new tool—just an archive of existing BACI binaries. Despite testing them, I cannot promise any of these will work under any circumstances.
 
-NOTE: ./Binaries/Cross-Platform also includes GUI front-ends for bainterp, as well as entire implementations of BACI in Java.
-NOTE: BACI GUI is NOT the latest version of BACI.
+## Contents
+
+- `./Binaries/` — Main collection of BACI binaries
+- `./Binaries/Cross-Platform/` — Includes:
+  - GUI front-ends for `bainterp`
+  - Java-based implementations of BACI  
+  ⚠️ **Note:** The BACI GUI is *not* the latest version of BACI.
+
+## Usage
+
+To download the archive:
+
+```bash
+git clone https://github.com/Adraxone/baci_archive
+```
